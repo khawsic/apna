@@ -1,0 +1,6 @@
+{
+  "name": "VocabVoice AI",
+  "description": "Conversational English Vocabulary Coach — learn words, listen to pronunciations, practice speaking, and receive intelligent feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
